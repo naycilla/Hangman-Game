@@ -1,0 +1,6 @@
+pig
+giraffe
+cat
+penguin
+butterfly
+tiger

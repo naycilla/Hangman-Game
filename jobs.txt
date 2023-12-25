@@ -1,0 +1,6 @@
+doctor
+baker
+singer
+engineer
+nurse
+teacher
